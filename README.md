@@ -22,7 +22,7 @@ Images of the Tourist Guide Application:
 
 # 3. Image of the Bookings of the hotels, flights, etc :
    
-    ![3 android](https://github.com/KavanKumarpatel/Tourist-Guide-application/assets/102536246/d5a9c754-d8dc-470c-a0c3-e21939955bd7)
+![3 android](https://github.com/KavanKumarpatel/Tourist-Guide-application/assets/102536246/d5a9c754-d8dc-470c-a0c3-e21939955bd7)
 
 # 4. Image of the Project group members :
    ![4 android ](https://github.com/KavanKumarpatel/Tourist-Guide-application/assets/102536246/9ef08944-bd6f-4071-8d60-d824e8ec40fb)
