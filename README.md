@@ -14,19 +14,20 @@ Images of the Tourist Guide Application:
 
 # 1. Image of the Home Page :
     
-    ![image](https://github.com/mahirpatel7/Tourist-Guide-Application/assets/162891711/60cf1176-a5bc-4781-88b6-2ad47ef1b2e1)
+   ![1 android ](https://github.com/KavanKumarpatel/Tourist-Guide-application/assets/102536246/0b4401ee-3091-4c7a-933f-2676cff054ef)
 
 # 2. Image of the Tourist Places videos :
    
-    ![image](https://github.com/mahirpatel7/Tourist-Guide-Application/assets/162891711/1e6eaa82-d677-4b22-98a6-05cd249270e5)
+   ![2 android](https://github.com/KavanKumarpatel/Tourist-Guide-application/assets/102536246/5eb924af-f637-409b-a5aa-3b00d51ecae8)
 
 # 3. Image of the Bookings of the hotels, flights, etc :
    
-    ![image](https://github.com/mahirpatel7/Tourist-Guide-Application/assets/162891711/dcb721ce-ae61-4b13-9252-30d9ee091623)
+    ![3 android](https://github.com/KavanKumarpatel/Tourist-Guide-application/assets/102536246/d5a9c754-d8dc-470c-a0c3-e21939955bd7)
 
 # 4. Image of the Project group members :
-   
-   ![image](https://github.com/mahirpatel7/Tourist-Guide-Application/assets/162891711/9a9f6f27-a058-4257-b43a-ff885e233035)
+   ![4 android ](https://github.com/KavanKumarpatel/Tourist-Guide-application/assets/102536246/9ef08944-bd6f-4071-8d60-d824e8ec40fb)
+
+  
 
 
 
